@@ -1,0 +1,10 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+Malaysia/Kuala Lumpur
+Korea/Seoul
+Indonesia/Jakarta
+Japan/Tokyo
+Australia/Canberra
